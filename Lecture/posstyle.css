@@ -18,7 +18,7 @@ p {
     width: 100px;
     height: 100px;
     background-color: rgba(111, 41, 97, .3);
-    /* position:static; */
+    position:static;
     /* position:relative;
     bottom: 50px;
     left: 20px; */
